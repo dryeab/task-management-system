@@ -6,9 +6,8 @@ public enum STATUS
     INPROGRESS,
 }
 
-public class Task: BaseModel
+public class Job: BaseModel
 {
-    public User Owner { get; set; }
     public string Title { get; set; }
     public string Description { get; set; }
     public STATUS Status { get; set; }

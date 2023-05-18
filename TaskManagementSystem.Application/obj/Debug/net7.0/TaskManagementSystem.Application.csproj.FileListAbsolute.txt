@@ -10,3 +10,6 @@
 /home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/refint/TaskManagementSystem.Application.dll
 /home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/TaskManagementSystem.Application.pdb
 /home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/ref/TaskManagementSystem.Application.dll
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/bin/Debug/net7.0/TaskManagementSystem.Model.dll
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/bin/Debug/net7.0/TaskManagementSystem.Model.pdb
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/TaskManagementSystem.Application.csproj.CopyComplete
