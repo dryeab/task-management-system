@@ -1,0 +1,12 @@
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/bin/Debug/net7.0/TaskManagementSystem.Application.deps.json
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/bin/Debug/net7.0/TaskManagementSystem.Application.dll
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/bin/Debug/net7.0/TaskManagementSystem.Application.pdb
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/TaskManagementSystem.Application.csproj.AssemblyReference.cache
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/TaskManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/TaskManagementSystem.Application.AssemblyInfoInputs.cache
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/TaskManagementSystem.Application.AssemblyInfo.cs
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/TaskManagementSystem.Application.csproj.CoreCompileInputs.cache
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/TaskManagementSystem.Application.dll
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/refint/TaskManagementSystem.Application.dll
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/TaskManagementSystem.Application.pdb
+/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Application/obj/Debug/net7.0/ref/TaskManagementSystem.Application.dll
