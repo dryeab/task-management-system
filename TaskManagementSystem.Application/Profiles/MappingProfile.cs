@@ -7,6 +7,6 @@ public class MappingProfile: Profile
 {
     public MappingProfile()
     {
-        CreateMap<Task, TaskDto>().ReverseMap();
+        CreateMap<Job, TaskDto>().ReverseMap();
     }
 }

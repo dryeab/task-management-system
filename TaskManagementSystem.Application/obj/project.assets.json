@@ -107,6 +107,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "TaskManagementSystem.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TaskManagementSystem.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManagementSystem.Model.dll": {}
+        }
       }
     }
   },
@@ -304,11 +314,17 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "TaskManagementSystem.Model/1.0.0": {
+      "type": "project",
+      "path": "../TaskManagementSystem.Model/TaskManagementSystem.Model.csproj",
+      "msbuildProject": "../TaskManagementSystem.Model/TaskManagementSystem.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1"
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
+      "TaskManagementSystem.Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -335,7 +351,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Model/TaskManagementSystem.Model.csproj": {
+              "projectPath": "/home/dryeab/Documents/Code/task-management-system/TaskManagementSystem.Model/TaskManagementSystem.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
